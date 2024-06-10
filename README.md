@@ -1,0 +1,2 @@
+# FluentValidationWorkshop
+String.Empty
