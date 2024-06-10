@@ -1,0 +1,9 @@
+{
+  "Errors": [
+    {
+      "Description": "YOUR DESCRIPTION",
+      "Id": "YOUR ERROR CODE",
+      "Message": "YOUR MESSAGE"
+    }
+  ]
+}
